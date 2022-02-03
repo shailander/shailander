@@ -17,9 +17,9 @@
 
 ## Stats
 
-![Shailander's github stats](https://github-readme-stats.vercel.app/api?username=shailander&theme=tokyonight&show_icons=true)
+![Shailander's github stats](https://github-readme-stats.vercel.app/api?username=shailander&count_private=true&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailander&layout=compact&theme=tokyonight)](https://github.com/shailander/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailander&count_private=true&layout=compact&theme=tokyonight)](https://github.com/shailander/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shailander&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
